@@ -90,8 +90,8 @@ GDI 기반 렌더러를 사용한 초기 미니 프로젝트
 ## 🔗 Links
 
 - 🌐 Portfolio / Blog: [https://29thnight.github.io](https://29thnight.github.io)
-- 💼 LinkedIn: (원하시면 여기에 추가)
-- 📧 Contact: (공개 가능할 때 이메일 또는 연락 채널 추가)
+- 💼 LinkedIn: [(park-young-ung)](https://www.linkedin.com/in/park-young-ung-9584a5392/)
+- 📧 Contact: ideneb@naver.com
 
 ---
 
