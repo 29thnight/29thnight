@@ -1,4 +1,4 @@
-# 👋 Hi, I'm 29thnight (Park Young Ung)
+# 👋 Hi, I'm Park Young Ung
 
 **Game / Graphics Programmer** from South Korea 🇰🇷  
 C++ · DirectX 11 · WinAPI · Custom Engine & Tools
