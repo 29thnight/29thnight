@@ -29,7 +29,7 @@ Pinned repositories showcase my primary engine and tool projects.
 
 ### 🎮 Graphics / Engine
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=directx,windows,unreal,unity&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=windows,unreal,unity&theme=dark" />
 </p>
 
 - DirectX 11 (Rendering Pipeline, HLSL)
