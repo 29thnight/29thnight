@@ -22,7 +22,7 @@ Pinned repositories showcase my primary engine and tool projects.
 
 ### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs&theme=dark" />
 </p>
 
 ---
