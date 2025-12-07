@@ -20,37 +20,14 @@ Pinned repositories showcase my primary engine and tool projects.
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,windows,unreal,unity,visualstudio,git,github,imgui&theme=dark" />
 </p>
 
----
-
-### 🎮 Graphics / Engine
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=windows,unreal,unity&theme=dark" />
-</p>
-
-- DirectX 11 (Rendering Pipeline, HLSL)
-- WinAPI (Threading, Synchronization, File I/O)
-- Unreal / Unity (Engine architecture reference & tooling experience)
-
----
-
-### 🧰 Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=visualstudio,git,github&theme=dark" />
-</p>
-
----
-
-### 🧪 Libraries / Middleware
-
-- **ImGui** — real-time editor UI
-- **YAML-CPP** — reflection-based serialization
-- **FMOD** — audio middleware (engine integration experiments)
-- **LZ4** — packaging & asset compression experiments
+- **Languages**: C++20, C#
+- **Graphics / Engine**: DirectX 11 (HLSL), WinAPI
+- **Tools & Workflow**: Visual Studio, Git, GitHub
+- **Libraries / Middleware**: ImGui, YAML-CPP, FMOD, LZ4
 
 ---
 
@@ -67,7 +44,7 @@ Pinned repositories showcase my primary engine and tool projects.
 ## 🔗 Links
 
 - 🌐 **Portfolio / Blog**  
-  [Portfolio](https://29thnight.github.io/)
+  https://www.notion.so/2bada11263ef8099bc8ec0c57856ac38?pvs=74
 
 - 💼 **LinkedIn**  
   https://www.linkedin.com/in/park-young-ung-9584a5392/
