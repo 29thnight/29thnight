@@ -67,7 +67,7 @@ Pinned repositories showcase my primary engine and tool projects.
 ## 🔗 Links
 
 - 🌐 **Portfolio / Blog**  
-  https://www.notion.so/2bada11263ef8099bc8ec0c57856ac38?pvs=74
+  [Portfolio](https://29thnight.github.io/)
 
 - 💼 **LinkedIn**  
   https://www.linkedin.com/in/park-young-ung-9584a5392/
