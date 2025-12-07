@@ -40,7 +40,7 @@ Pinned repositories showcase my primary engine and tool projects.
 
 ### 🧰 Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=visualstudio,cmake,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,git,github&theme=dark" />
 </p>
 
 ---
