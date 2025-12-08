@@ -39,7 +39,3 @@ Pinned repositories showcase my primary engine and tool projects.
 - Editor Automation & Tool Pipelines
 - LLM-assisted Engine / Tool Development Workflows
 
-
-## 📊 GitHub Stats
-![29thnight's GitHub stats](https://github-readme-stats.vercel.app/api?username=29thnight&show_icons=true&theme=transparent)
-
