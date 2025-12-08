@@ -39,22 +39,7 @@ Pinned repositories showcase my primary engine and tool projects.
 - Editor Automation & Tool Pipelines
 - LLM-assisted Engine / Tool Development Workflows
 
----
 
-## 🔗 Links
-
-- 🌐 **Portfolio / Blog**  
-  https://www.notion.so/2bada11263ef8099bc8ec0c57856ac38?pvs=74
-
-- 💼 **LinkedIn**  
-  https://www.linkedin.com/in/park-young-ung-9584a5392/
-
-- 📧 **Contact**  
-  ideneb@naver.com
-
----
-
-<!-- Optional
 ## 📊 GitHub Stats
 ![29thnight's GitHub stats](https://github-readme-stats.vercel.app/api?username=29thnight&show_icons=true&theme=transparent)
--->
+
