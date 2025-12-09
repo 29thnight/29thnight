@@ -33,7 +33,7 @@ Pinned repositories showcase my primary engine and tool projects.
 
 ## 🎯 Interests
 
-- Game Engine Architecture (ECS, Reflection, Serialization)
+- Game Engine Architecture (Reflection, Serialization)
 - Multi-threaded Rendering & GPU / CPU Parallelism
 - Memory Management & Custom Allocators
 - Editor Automation & Tool Pipelines
