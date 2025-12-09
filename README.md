@@ -25,9 +25,9 @@ Pinned repositories showcase my primary engine and tool projects.
 </p>
 
 - **Languages**: C++20, C#
-- **Graphics / Engine**: DirectX 11 (HLSL), WinAPI
+- **Graphics API / Engine**: DirectX 11 (HLSL), Unity, Unreal
 - **Tools & Workflow**: Visual Studio, Git, GitHub
-- **Libraries / Middleware**: ImGui, YAML-CPP, FMOD, LZ4
+- **Libraries / Middleware**: ImGui, YAML-CPP, FMOD, LZ4,  WinAPI
 
 ---
 
