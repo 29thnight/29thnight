@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="112" viewBox="0 0 500 112" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Portfolio</title>
+<desc id="desc">29thnight.github.io</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="500" y2="112" gradientUnits="userSpaceOnUse"><stop stop-color="#152130"/><stop offset="1" stop-color="#0d131c"/></linearGradient></defs>
+<rect x="1" y="1" width="498" height="110" rx="20" fill="url(#bg)" stroke="#2c3c4c"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<g transform="translate(24 35) scale(1.05)"><rect width="40" height="40" rx="10" fill="#dcbb91" fill-opacity=".10"/><g stroke="#dcbb91" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="8" width="30" height="25" rx="4"/><path d="M5 16h30M14 16v17M10 12h1m4 0h1m4 0h1m-1 10h10m-10 6h6"/></g></g><text x="86" y="46" fill="#eaf2fa" font-size="25" font-weight="600">Portfolio</text><text x="86" y="81" fill="#a7b7c9" font-size="20" font-weight="400">29thnight.github.io</text><path d="m456 45 15-15m-13 0h13v13" stroke="#79cbea" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>

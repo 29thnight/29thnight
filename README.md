@@ -19,3 +19,30 @@
   &nbsp; · &nbsp;
   <a href="https://github.com/29thnight/CreatorEngine/blob/master/docs/README.md">Documentation</a>
 </p>
+
+<p>
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/tech-stack-mobile.svg">
+    <img src="./assets/tech-stack.svg" width="100%" alt="Tech Stack. Languages: C++20 / 23 · C#, HLSL · Slang; Graphics: DirectX 12 · Vulkan, Win32; Runtime: .NET · CoreCLR, PhysX · FMOD; Editor: Dear ImGui · ImGuizmo, Roslyn; Content: fastgltf · ufbx, meshoptimizer · ryml; Development: Visual Studio · Git, MSBuild · vcpkg.">
+  </picture>
+</p>
+
+<h2>Interests</h2>
+
+<ul>
+  <li><strong>Performance</strong> — Data-oriented design, memory allocation, and job scheduling.</li>
+  <li><strong>Metaprogramming</strong> — Compile-time reflection, serialization, and source generation.</li>
+  <li><strong>Engine architecture</strong> — Render graphs, native/managed boundaries, and build pipelines.</li>
+</ul>
+
+<h2>Portfolio</h2>
+
+<p>
+  <a href="https://29thnight.github.io/"><img src="./assets/portfolio-site.svg" width="420" alt="Portfolio — 29thnight.github.io"></a>
+  <a href="https://github.com/29thnight/CreatorEngine"><img src="./assets/portfolio-engine.svg" width="420" alt="CreatorEngine — Engine, editor &amp; content pipeline"></a>
+</p>
+
+<p>
+  <a href="https://github.com/29thnight/reflgen_cpp"><img src="./assets/portfolio-reflgen.svg" width="420" alt="reflgen_cpp — C++ reflection &amp; serialization"></a>
+  <a href="https://github.com/29thnight/Mathematics"><img src="./assets/portfolio-mathematics.svg" width="420" alt="Mathematics — SIMD game-math library"></a>
+</p>

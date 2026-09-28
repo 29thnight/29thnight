@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="112" viewBox="0 0 500 112" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">CreatorEngine</title>
+<desc id="desc">Engine, editor &amp; content pipeline</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="500" y2="112" gradientUnits="userSpaceOnUse"><stop stop-color="#152130"/><stop offset="1" stop-color="#0d131c"/></linearGradient></defs>
+<rect x="1" y="1" width="498" height="110" rx="20" fill="url(#bg)" stroke="#2c3c4c"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<g transform="translate(24 35) scale(1.05)"><rect width="40" height="40" rx="10" fill="#80d4ba" fill-opacity=".10"/><g stroke="#80d4ba" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m20 7 14 8-14 8-14-8 14-8Zm-14 15 14 8 14-8M6 29l14 8 14-8"/></g></g><text x="86" y="46" fill="#eaf2fa" font-size="25" font-weight="600">CreatorEngine</text><text x="86" y="81" fill="#a7b7c9" font-size="20" font-weight="400">Engine, editor &amp; content pipeline</text><path d="m456 45 15-15m-13 0h13v13" stroke="#79cbea" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>
