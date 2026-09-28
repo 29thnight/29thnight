@@ -37,12 +37,12 @@
 
 <h2>Portfolio</h2>
 
-<p>
-  <a href="https://29thnight.github.io/"><img src="./assets/portfolio-site.svg" width="420" alt="Portfolio — 29thnight.github.io"></a>
-  <a href="https://github.com/29thnight/CreatorEngine"><img src="./assets/portfolio-engine.svg" width="420" alt="CreatorEngine — Engine, editor &amp; content pipeline"></a>
+<p align="center">
+  <a href="https://29thnight.github.io/"><img src="./assets/portfolio-site.svg" width="49%" alt="Portfolio — 29thnight.github.io"></a>
+  <a href="https://github.com/29thnight/CreatorEngine"><img src="./assets/portfolio-engine.svg" width="49%" alt="CreatorEngine — Engine, editor &amp; content pipeline"></a>
 </p>
 
-<p>
-  <a href="https://github.com/29thnight/reflgen_cpp"><img src="./assets/portfolio-reflgen.svg" width="420" alt="reflgen_cpp — C++ reflection &amp; serialization"></a>
-  <a href="https://github.com/29thnight/Mathematics"><img src="./assets/portfolio-mathematics.svg" width="420" alt="Mathematics — SIMD game-math library"></a>
+<p align="center">
+  <a href="https://github.com/29thnight/reflgen_cpp"><img src="./assets/portfolio-reflgen.svg" width="49%" alt="reflgen_cpp — C++ reflection &amp; serialization"></a>
+  <a href="https://github.com/29thnight/Mathematics"><img src="./assets/portfolio-mathematics.svg" width="49%" alt="Mathematics — SIMD game-math library"></a>
 </p>
