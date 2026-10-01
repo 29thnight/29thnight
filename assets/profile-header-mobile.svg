@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="184" viewBox="0 0 480 184" fill="none" role="img" aria-labelledby="title desc">
-<title id="title">Park Young Ung | Engine Programmer</title>
+<title id="title">29thnight | Engine Programmer</title>
 <desc id="desc">Game engine systems, from runtime to tools.</desc>
 <defs><linearGradient id="bg" x1="0" y1="0" x2="480" y2="184" gradientUnits="userSpaceOnUse"><stop stop-color="#152130"/><stop offset="1" stop-color="#0d131c"/></linearGradient></defs>
 <rect x="1" y="1" width="478" height="182" rx="20" fill="url(#bg)" stroke="#2c3c4c"/>
-<g font-family="Segoe UI, Arial, sans-serif"><text x="24" y="39" fill="#7bdbef" font-size="14" font-weight="600" font-family="Consolas, Liberation Mono, monospace" letter-spacing="1.5">ENGINE PROGRAMMER</text><text x="23" y="91" fill="#eef5fc" font-size="38" font-weight="700" letter-spacing="-1">Park Young Ung</text><text x="24" y="130" fill="#a7b7c9" font-size="20" font-weight="400" >Game engine systems,</text><text x="24" y="157" fill="#a7b7c9" font-size="20" font-weight="400" >from runtime to tools.</text><g transform="translate(408 69) scale(0.38)" stroke-linejoin="round">
+<g font-family="Segoe UI, Arial, sans-serif"><text x="24" y="39" fill="#7bdbef" font-size="14" font-weight="600" font-family="Consolas, Liberation Mono, monospace" letter-spacing="1.5">ENGINE PROGRAMMER</text><text x="23" y="91" fill="#eef5fc" font-size="38" font-weight="700" letter-spacing="-1">29thnight</text><text x="24" y="130" fill="#a7b7c9" font-size="20" font-weight="400" >Game engine systems,</text><text x="24" y="157" fill="#a7b7c9" font-size="20" font-weight="400" >from runtime to tools.</text><g transform="translate(408 69) scale(0.38)" stroke-linejoin="round">
 <path d="M-114 8 0-50 114 8 0 66Z M-114 38 0-20 114 38 0 96Z" stroke="#2a4459"/>
 <path d="M0-77 69-42 69 34 0 69-69 34-69-42Z" fill="#122332" stroke="#3f647f" stroke-width="1.5"/>
 <path d="M0-77 69-42 0-7-69-42Z" fill="#183547" stroke="#65ccec" stroke-width="1.5"/>

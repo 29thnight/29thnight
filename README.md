@@ -1,7 +1,7 @@
 <p>
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile.svg">
-    <img src="./assets/profile-header.svg" width="100%" alt="Park Young Ung — Engine Programmer. Game engine systems, from runtime to tools.">
+    <img src="./assets/profile-header.svg" width="100%" alt="29thnight — Engine Programmer. Game engine systems, from runtime to tools.">
   </picture>
 </p>
 
